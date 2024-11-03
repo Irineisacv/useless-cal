@@ -26,7 +26,6 @@ Technical Details
 Python
 Version: Python 3.6 or later is recommended.
 python random_result_calculator.py
-![Alt text](path/to/image)
 
 
 
