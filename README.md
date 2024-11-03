@@ -26,7 +26,7 @@ Technical Details
 Python
 Version: Python 3.6 or later is recommended.
 python random_result_calculator.py
-!()
+!(images/Screenshot 2024-11-03 074758.png)
 
 
 
